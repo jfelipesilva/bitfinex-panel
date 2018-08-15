@@ -1,0 +1,23 @@
+{
+  "name": "bitfinex-panel",
+  "version": "1.0.0",
+  "description": "Panel with all of your trades inside Bitfinex Exchange ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfelipesilva/bitfinex-panel.git"
+  },
+  "author": "João Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfelipesilva/bitfinex-panel/issues"
+  },
+  "homepage": "https://github.com/jfelipesilva/bitfinex-panel#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
